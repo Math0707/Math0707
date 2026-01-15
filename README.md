@@ -1,35 +1,54 @@
-# Olá! Me chamo Matheus Teixeira 👋
+# 👋 Olá! Eu me chamo Matheus Teixeira
 
-🎓 Sou estudante e entusiasta da tecnologia, com foco em ***Ciência de Dados***, ***Python*** e resolução de problemas com dados. Estou em busca de oportunidades para aprender, crescer e contribuir com projetos reais..
+💻 Desenvolvedor **Full Stack** com foco em **Java**, interessado em criar aplicações web completas, bem estruturadas e integradas a bancos de dados.  
+Busco evoluir constantemente por meio de projetos reais, aplicando boas práticas de desenvolvimento e arquitetura de software.
 
-# 🔎 Tenho interesse especial por:
-- Análise de Dados 📊
-- Aprendizado de Máquina 🤖
-- Visualização de Dados 📈
-- Desenvolvimento em Python 🐍
+---
 
-# 🛠️ Tecnologias e Ferramentas:
+## ⚙️ Back-end
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+## 🎨 Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## 🗄️ Bancos de Dados
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🔧 DevOps & Ferramentas
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+---
 
+📌 Atualmente estou desenvolvendo **projetos pessoais Full Stack Java** para consolidar meus conhecimentos.  
+Confira meus repositórios abaixo 👇
 
+---
 
-
-💼 Atualmente estou praticando e desenvolvendo projetos pessoais. Veja meus repositórios abaixo 👇
-
-📫 **Contato:**
+## 📫 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-teixeira-francellino-799796242/" target="_blank">
@@ -39,3 +58,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+
+
+
+
+
+
