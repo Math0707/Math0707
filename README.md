@@ -43,6 +43,18 @@ Busco evoluir constantemente por meio de projetos reais, aplicando boas prática
 
 ---
 
+<p align="left">
+  <img
+    height="180"
+    src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=Math0707&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
+  />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=Math0707&theme=github-dark&hide_border=true"
+  />
+</p>
+
+
 📌 Atualmente estou desenvolvendo **projetos pessoais Full Stack Java** para consolidar meus conhecimentos.  
 Confira meus repositórios abaixo 👇
 
@@ -58,6 +70,8 @@ Confira meus repositórios abaixo 👇
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+
 
 
 
