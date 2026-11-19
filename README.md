@@ -1,8 +1,8 @@
 # Matheus Teixeira Francelino
 
-Desenvolvedor web em São Paulo. Trabalho com **React, Next.js e TypeScript** em produção há 1 ano e meio e estou me desenvolvendo como **back-end Java com Spring Boot**.
+Full-Stack em São Paulo. Trabalho com **React, Next.js e TypeScript** em produção e estou me desenvolvendo como **back-end Java com Spring Boot**.
 
-Web developer based in São Paulo, Brazil. I build production sites with React, Next.js and TypeScript, and I'm growing into back-end development with Java and Spring Boot.
+Full-Stack developer based in São Paulo, Brazil. I build production sites with React, Next.js and TypeScript, and I'm growing into back-end development with Java and Spring Boot.
 
 ## Projetos
 
